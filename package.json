@@ -1,0 +1,19 @@
+{
+  "name": "soff-intro-react-exam",
+  "version": "1.0.0",
+  "description": "Imtihon maketi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zufarbek/soff-intro-react-exam.git"
+  },
+  "author": "Zufarbek Abdurahmonov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zufarbek/soff-intro-react-exam/issues"
+  },
+  "homepage": "https://github.com/Zufarbek/soff-intro-react-exam#readme"
+}
